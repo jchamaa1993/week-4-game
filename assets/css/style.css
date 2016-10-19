@@ -1,0 +1,17 @@
+body {
+	background-image: url('../images/pokeball.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#yourCharacterDiv, #enemyDiv {
+}
+p {
+	font-weight: bold;
+	color: white;
+}
+
+.imageDiv {
+	background-color: white;
+}
+
